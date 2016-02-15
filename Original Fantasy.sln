@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OFLib", "OFLib\OFLib.vcxproj", "{356E2E56-0F15-4A3D-8D03-30E1B6B2816A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ROMExporter", "ROMExporter\ROMExporter.vcxproj", "{7E69DB64-A575-40A0-A024-3A4DF32588B5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SDLMapEngine", "SDLMapEngine\SDLMapEngine.vcxproj", "{D9A957E8-FA16-427E-BF4B-1B7EAB80D71D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{356E2E56-0F15-4A3D-8D03-30E1B6B2816A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{356E2E56-0F15-4A3D-8D03-30E1B6B2816A}.Debug|Win32.Build.0 = Debug|Win32
+		{356E2E56-0F15-4A3D-8D03-30E1B6B2816A}.Release|Win32.ActiveCfg = Release|Win32
+		{356E2E56-0F15-4A3D-8D03-30E1B6B2816A}.Release|Win32.Build.0 = Release|Win32
+		{7E69DB64-A575-40A0-A024-3A4DF32588B5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7E69DB64-A575-40A0-A024-3A4DF32588B5}.Debug|Win32.Build.0 = Debug|Win32
+		{7E69DB64-A575-40A0-A024-3A4DF32588B5}.Release|Win32.ActiveCfg = Release|Win32
+		{7E69DB64-A575-40A0-A024-3A4DF32588B5}.Release|Win32.Build.0 = Release|Win32
+		{D9A957E8-FA16-427E-BF4B-1B7EAB80D71D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D9A957E8-FA16-427E-BF4B-1B7EAB80D71D}.Debug|Win32.Build.0 = Debug|Win32
+		{D9A957E8-FA16-427E-BF4B-1B7EAB80D71D}.Release|Win32.ActiveCfg = Release|Win32
+		{D9A957E8-FA16-427E-BF4B-1B7EAB80D71D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
